@@ -1,0 +1,19 @@
+{
+  "name": "cf-complex-object",
+  "version": "1.0.0",
+  "description": "unit test on complex object",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bmccaffray/cf-complex-object.git"
+  },
+  "author": "brett mccaffray",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bmccaffray/cf-complex-object/issues"
+  },
+  "homepage": "https://github.com/bmccaffray/cf-complex-object"
+}
