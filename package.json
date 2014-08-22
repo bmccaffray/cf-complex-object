@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/bmccaffray/cf-complex-object/issues"
   },
-  "homepage": "https://github.com/bmccaffray/cf-complex-object"
+  "homepage": "https://github.com/bmccaffray/cf-complex-object",
+  "devDependencies": {
+    "chai": "^1.9.1",
+    "mocha": "^1.21.4"
+  }
 }
